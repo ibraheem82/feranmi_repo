@@ -1,6 +1,1 @@
-This is your best bet. It has proven coding strength and is from the "Flash" Family, which is generally optimzed
-
-If the repository was cloned as a shallow clone or with the single-branch flag. Git deliberately ignores every other branch on the remote.
-
-
-A repository (often shortened to "repo") is just a flder that  git is watching. meaning that, If a folder has been set up with Git (Using git init or by donwloading one with git clone), it's  a repository. Git keeps track of everything inside it -- every change, every version, every save.
+gomycode so far has been a good place for learning 
